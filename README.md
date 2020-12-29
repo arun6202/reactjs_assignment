@@ -1,8 +1,5 @@
 # reactjs_assignment
 
-Create react js using the design.
-
-1.Dashboard.png
-2.using JSON data "data.json" load  using  API(https://raw.githubusercontent.com/arun6202/reactjs_assignment/main/data.json).
-3.upload the project into github.
-4.Share the github link.
+Create a react js app to show the bookings as per the design in Dashboard.png.
+Fetch the booking details via ajax request from <https://raw.githubusercontent.com/arun6202/reactjs_assignment/main/data.json>
+Share the source code once done.  Host the project on some online platform (eg: heroku) for demo
